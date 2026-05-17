@@ -1,0 +1,39 @@
+{
+  "canvas": {
+    "width": 1080,
+    "height": 1080
+  },
+  "layers": [
+    {
+      "id": "headline",
+      "type": "text",
+      "role": "headline",
+      "text": "Big Summer Sale",
+      "x": 100,
+      "y": 120,
+      "width": 800,
+      "height": 100,
+      "fontSize": 48
+    },
+    {
+      "id": "product",
+      "type": "image",
+      "role": "product",
+      "x": 200,
+      "y": 300,
+      "width": 500,
+      "height": 500
+    },
+    {
+      "id": "badge",
+      "type": "text",
+      "role": "offer-badge",
+      "text": "50% OFF",
+      "x": 800,
+      "y": 250,
+      "width": 180,
+      "height": 80,
+      "fontSize": 32
+    }
+  ]
+}
